@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Roman890
 - 👀 I’m interested in Python, SQL, Data Analytic and Manual testing
-- 🌱 I’m currently learning Data Analutics
 - 📫 my email: rom.nosov2014@yandex.ru
 
 <!---
