@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Roman890
-- 👀 I’m interested in Python, SQL, Javascript and analytics.
+- 👀 I’m system analyst.
 - 📫 my email: rom.nosov2014@yandex.ru
 
 <!---
